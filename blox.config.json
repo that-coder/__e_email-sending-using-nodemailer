@@ -1,0 +1,1 @@
+{"name":"email-sending-using-nodemailer","type":"function","source":{"https":"https://github.com/that-coder/__e_email-sending-using-nodemailer","ssh":"git@github.com:that-coder/__e_email-sending-using-nodemailer.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
